@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat Sdk</string>
+    <string name="label_launch_sdk">Launch SDK</string>
+</resources>

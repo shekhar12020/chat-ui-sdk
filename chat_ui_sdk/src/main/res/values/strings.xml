@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chat_ui_sdk</string>
+    <string name="label_sample_sdk_screen">Sample Sdk Screen</string>
+</resources>
